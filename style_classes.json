@@ -1,0 +1,16 @@
+{
+  "occurrence": {
+    "fill": "crimson",
+    "opacity": 0.5
+  },
+  "in_hospital": {
+    "fill": "cornflowerblue"
+  },
+  "professional": {
+    "fill": "#9be0d9",
+    "opacity": 0
+  },
+  "Inpatient Visit": {
+    "fill": "cornflowerblue"
+  }
+}
